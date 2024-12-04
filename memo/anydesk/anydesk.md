@@ -9,4 +9,4 @@
 `sudo apt update `
 
 ### インストールする
-` インストール`
+` sudo apt install anydesk`
